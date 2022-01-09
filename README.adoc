@@ -1,0 +1,25 @@
+= Komi Interview: Technical Test
+
+Candidates can use any environment (IDE/console) they feel comfortable with.
+
+It is important to note that the tester is more interested in your thinking and approach than "getting it right".
+So with this in mind, explain your reasoning and ask questions as you progress through your solution.
+Each challenge has a corresponding unit test in the same folder.
+
+- Challenge 1: link:./challenges/auction/newBid.js[Auction]
+- Challenge 2: link:./challenges/users/names.js[Users]
+
+== Instructions
+Clone this repository and run:
+
+[source]
+----
+npm install
+----
+
+or
+
+[source]
+----
+yarn
+----
